@@ -8,7 +8,8 @@ export const projects = [
         pitched: "Mini Project 2",
         highlight: true,
         tag: "Present",
-        link: "#"
+        link: "#",
+        github: "https://github.com/Rohith2717/expense_tracker.git"
     },
     {
         title: "Adaptive Memory System",
@@ -17,7 +18,8 @@ export const projects = [
         pitched: "Developing to pitch on Selsoft Hackathon 2025",
         highlight: true,
         tag: "Present",
-        link: "#"
+        link: "#",
+        github: "https://github.com/Rohith2717/memgent-memory_agent_system.git"
     },
     {
         title: "Automated Cyber Triage System",
@@ -25,7 +27,8 @@ export const projects = [
         tech: ["Zeek", "Machine Learning", "Network Security"],
         pitched: "Pitched this project on Avinya'25 36-Hours Hackathon 2025",
         highlight: false,
-        link: "#"
+        link: "#",
+        github: "#"
     },
     {
         title: "Network Traffic Anomaly Detection",
@@ -33,7 +36,8 @@ export const projects = [
         tech: ["Python", "LSTM", "Isolation Forest", "Streamlit"],
         pitched: "Acedemic Mini Project 1",
         highlight: false,
-        link: "#"
+        link: "#",
+        github: "#"
     },
     {
         title: "AI Auto Compliance Mapper",
@@ -41,7 +45,8 @@ export const projects = [
         tech: ["LLMs", "NLP", "AI"],
         pitched: "Pitched this project on Isreal-India Global Innovators Hackathon 2026",
         highlight: false,
-        link: "#"
+        link: "#",
+        github: "#"
     },
     {
         title: "Personal Project: Kathea Hegine",
@@ -49,6 +54,7 @@ export const projects = [
         tech: ["Flutter", "Firebase", "NLP", "Machine Learning"],
         highlight: true,
         tag: "Present",
-        link: "#"
+        link: "#",
+        github: "#"
     }
 ];

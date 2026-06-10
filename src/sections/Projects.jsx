@@ -56,7 +56,7 @@ const Projects = () => {
                                 </div>
 
                                 <div className="flex gap-4 mt-auto pt-4 border-t border-gray-100 dark:border-gray-800">
-                                    <a href={project.link} className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 flex items-center gap-1 text-sm font-medium transition-colors">
+                                    <a href={project.github} className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 flex items-center gap-1 text-sm font-medium transition-colors">
                                         <Github size={16} /> Code
                                     </a>
                                     <a href={project.link} className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 flex items-center gap-1 text-sm font-medium transition-colors">
