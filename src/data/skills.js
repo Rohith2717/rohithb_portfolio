@@ -14,7 +14,7 @@ export const skills = [
     {
         category: "Databases",
         items: ["Mongo DB", "MySQL"]
-    }
+    },
     {
         category: "AI Frameworks",
         items: ["Machine Learning", "NLP", "Computer Vision", "Generative AI", "LLMs", "LangChain", "TrOCR", "RAG"]
