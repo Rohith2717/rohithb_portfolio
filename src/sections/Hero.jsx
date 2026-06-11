@@ -13,9 +13,7 @@ const Hero = () => {
                     animate={{ opacity: 1, x: 0 }}
                     transition={{ duration: 0.8 }}
                 >
-                    <span className="text-blue-600 dark:text-blue-400 font-semibold tracking-wide uppercase">
-                        Start Creating With
-                    </span>
+                   
                     <h1 className="text-5xl md:text-7xl font-extrabold mt-4 mb-6 leading-tight">
                         <span className="block text-gray-900 dark:text-gray-100">Rohith.B</span>
                         <span className="block bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent">
