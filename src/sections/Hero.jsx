@@ -15,7 +15,7 @@ const Hero = () => {
                 >
                    
                     <h1 className="text-5xl md:text-7xl font-extrabold mt-4 mb-6 leading-tight">
-                        <span className="block text-gray-900 dark:text-gray-100">Rohith.B</span>
+                        <span className="block text-gray-900 dark:text-gray-100">Rohith B</span>
                         <span className="block bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent">
                             Aspiring AI & Data Science Engineering Student
                         </span>
