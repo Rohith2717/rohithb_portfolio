@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { ArrowRight, Download, Linkedin, Github } from "lucide-react";
 import { Link } from "react-router-dom";
-import Me from "../assets/ME.jpeg";
+import Me from "../assets/Me.jpeg";
 import Resume from "../assets/Resume.pdf";
 
 const Hero = () => {
