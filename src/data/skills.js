@@ -1,18 +1,27 @@
 export const skills = [
     {
         category: "Languages",
-        items: ["Python", "Java", "C++", "SQL", "JavaScript"]
+        items: ["Python", "Java"]
     },
     {
-        category: "Web Technologies",
-        items: ["React", "Vite", "Tailwind CSS", "HTML", "CSS", "Framer Motion"]
+        category: "Frontend",
+        items: ["React JS", "HTML", "CSS", "JS"]
     },
     {
-        category: "AI & ML",
-        items: ["Machine Learning", "NLP", "Computer Vision", "Generative AI", "LLMs", "LangChain", "TrOCR"]
+        category: "Backend",
+        items: ["Node JS","Flask", "REST API" ]
     },
+    {
+        category: "Databases",
+        items: ["Mongo DB", "MySQL"]
+    }
+    {
+        category: "AI Frameworks",
+        items: ["Machine Learning", "NLP", "Computer Vision", "Generative AI", "LLMs", "LangChain", "TrOCR", "RAG"]
+    },
+    
     {
         category: "Tools & Cloud",
-        items: ["Antigravity", "Git", "VS Code", "Jupyter", "Google Colab"]
+        items: ["Git & Github", "VS Code", "Jupyter Notebook", "Antigravity"]
     }
 ];
